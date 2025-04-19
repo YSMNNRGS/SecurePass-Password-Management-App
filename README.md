@@ -1,4 +1,5 @@
 # SecurePass-Password-Management-App
+# Admin password customizable. Current Pass = Admin#2504
 This is a user-friendly, intermediate-level Python-based password manager designed for personal use. The app allows users to securely store, view, update, and delete their login credentials, such as website names, emails, and passwords. All passwords are encrypted using the Fernet encryption system to ensure data safety and privacy.
 
 The application is built with Tkinter for a smooth graphical user interface (GUI) and runs on a 1280x720 resolution for a clean and modern desktop experience. It also includes a custom background image, a password generator, and a secure SQLite database for storing the encrypted data locally.
